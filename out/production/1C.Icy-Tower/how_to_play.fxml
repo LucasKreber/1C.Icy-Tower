@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.HowToPlayController">
+   <children>
+      <Button fx:id="backToMainMenuButton" layoutX="676.0" layoutY="546.0" mnemonicParsing="false" onAction="#openMainMenuScene" text="Back To Menu" />
+      <Pane layoutX="147.0" layoutY="128.0" prefHeight="415.0" prefWidth="540.0">
+         <children>
+            <TextArea fx:id="HowToPlayText" layoutX="65.0" prefHeight="389.0" prefWidth="412.0" text="Welcome to Icy tower Game!&#10;All you have to do is jump as much as you can&#10;If you fall down to&#10;the space,you will die&#10;You should be fast !! &#10;unless the game screen can preclude you !! &#10;This means you die too!!&#10;You will play the game with arrows and space&#10;You can change it from settings if you want&#10;You can change sound and character too&#10;check the settings&#10;If you saw bonus, try to take it&#10;see what happens:)&#10;If you want to pause, press P&#10;If you made a new score&#10;don't froget to save it&#10;Good Luck!!&#10;                                               Good Luck !! &#10;">
+               <font>
+                  <Font size="19.0" />
+               </font></TextArea>
+         </children>
+      </Pane>
+      <Text layoutX="312.0" layoutY="119.0" strokeType="OUTSIDE" strokeWidth="0.0" text="How To Play">
+         <font>
+            <Font name="System Bold" size="36.0" />
+         </font>
+      </Text>
+      <ImageView fitHeight="48.0" fitWidth="42.0" layoutX="254.0" layoutY="83.0" pickOnBounds="true" preserveRatio="true">
+
+   </ImageView>
+   </children>
+</AnchorPane>

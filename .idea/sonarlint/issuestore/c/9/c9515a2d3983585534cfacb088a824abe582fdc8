@@ -1,0 +1,19 @@
+
+
+java:S1319"kThe type of "gameObjects" should be an interface such as "List" rather than the implementation "ArrayList".(ºøü„
+
+java:S1319$"kThe type of "gameObjects" should be an interface such as "List" rather than the implementation "ArrayList".(æÀÛæ
+p
+java:S1104"UMake prevBarId a static final constant or non-public and provide accessors if needed.(Ÿ›ü½úÿÿÿÿ
+J
+java:S1444"/Make this "public static prevBarId" field final(Ÿ›ü½úÿÿÿÿ
+E
+java:S5411d"*Use the primitive boolean expression here.(úãÚşÿÿÿÿ
+W
+java:S2184f"BCast one of the operands of this division operation to a "double".(ÏÔÓ
+L
+java:S2696"6Make the enclosing method "static" or remove this set.(”Šöä
+h
+java:S3776$"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(æÀÛæ
+K
+java:S2696:"6Make the enclosing method "static" or remove this set.(óƒØ

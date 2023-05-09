@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f139ba9-b34c-424d-b523-a507800fd674" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Arquillian_JUnit_Release.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Arquillian_JUnit_Release.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1C.Icy-Tower1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/1C.AnalysisReport.Iteration1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/1C.AnalysisReport.Iteration2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/1C.DesignReport.Iteration1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/1C.DesignReport.Iteration2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/1C.Final Report.Iteration1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/1C.FinalReport.Iteration2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/FullSprite/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/FullSprite/icytowersprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/background/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/background/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/background/menu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/background/oie_transparent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bonus/balloon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bonus/barextender.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bonus/coin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bonus/dneemecoin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bonus/timesqueezer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bonus/timestrechter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/character_images/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/character_images/character1_0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/character_images/character1_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/character_images/character1_2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/character_images/character1_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/character_images/character1_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/character_images/character1_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/character_images/character1_6.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/character_images/character2_0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/character_images/character2_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/character_images/character2_2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/character_images/character2_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/character_images/character2_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/character_images/character2_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/character_images/character2_6.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/character_images/character3_0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/character_images/character3_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/character_images/character3_2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/character_images/character3_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/character_images/character3_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/character_images/character3_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/character_images/character3_6.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gameObject/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gameObject/bar_l1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gameObject/bar_l2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gameObject/bar_l3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gameObject/bar_m1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gameObject/bar_m2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gameObject/bar_m3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gameObject/bar_r1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gameObject/bar_r2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gameObject/bar_r3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gameObject/gameBack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gameObject/platforms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gameObject/wall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mainCharacter/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mainCharacter/character1_0.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mainCharacter/character1_0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mainCharacter/character1_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mainCharacter/character1_2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mainCharacter/character1_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mainCharacter/character1_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mainCharacter/character1_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mainCharacter/character2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mainCharacter/character2_0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mainCharacter/character2_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mainCharacter/character2_2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mainCharacter/character2_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mainCharacter/character2_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mainCharacter/character2_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mainCharacter/chracter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mainCharacter/mainCharacter1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/menu_images/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/menu_images/menu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sprites/icytowersprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/audio0.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/audio1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/audio2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/jumppp11.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/images/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/images/character1_0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/images/character1_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/images/character1_2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/images/character1_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/images/character1_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/images/character1_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/images/character2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/images/character2_0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/images/character2_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/images/character2_2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/images/character2_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/images/character2_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/images/character2_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/images/charicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/images/chracter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/images/gameBack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/images/gamemenu.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/images/hscup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/images/infoicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/images/mainChar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/images/menu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/images/otherBackground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/images/settingsym.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/images/volume.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/view/button_settings.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/view/character_settings.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/view/credits.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/view/exit.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/view/game_over.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/view/gameover.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/view/high_scores.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/view/how_to_play.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/view/main_menu.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/view/settings.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/view/sound_settings.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/view/styleMainMenu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1C.Icy-Tower/view/styleOtherMenus.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/CharacterSettingsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/CharacterSettingsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/DifficultyScreenController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/DifficultyScreenController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/MainMenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/MainMenuController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/character1_0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/character2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/character2_0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/character3_0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/charicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/chracter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/gameBack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/gamemenu.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/hscup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/icon2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/infoicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/mainChar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/menu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/otherBackground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/settingsym.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/volume.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/entity/Balloon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/entity/Balloon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/entity/BarExtender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/entity/BarExtender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/entity/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/entity/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/entity/Coin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/entity/Coin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/entity/HardlyVisible.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/entity/HardlyVisible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/entity/Icy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/entity/Icy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/entity/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/entity/Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/entity/Sticky.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/entity/Sticky.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/entity/TimeSqueezer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/entity/TimeSqueezer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/entity/TimeStretcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/entity/TimeStretcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/entity/Wooden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/entity/Wooden.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/logic/CharacterManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/logic/CharacterManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/logic/GameEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/logic/GameEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/logic/SoundManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/logic/SoundManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/FileManagerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/SoundManagerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/Display.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/GameFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/button_settings.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/character_settings.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/credits.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/difficulty_screen.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/exit.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/gameover.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/high_scores.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/how_to_play.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/main_menu.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/settings.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/sound_settings.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/styleMainMenu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/styleOtherMenus.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/view/Main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NMnlkATVKdvN8LttVJPcU3hgrr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lucas Kreber\Desktop\1C.Icy-Tower\src" />
+      <recent name="C:\Users\Lucas Kreber\Desktop\1C.Icy-Tower\lib" />
+      <recent name="C:\Users\Lucas Kreber\Desktop\1C.Icy-Tower\libs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lucas Kreber\Desktop\1C.Icy-Tower\resources" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle srun" />
+      <command value="gradle run" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.1C.Icy-Tower [build]">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.Main" />
+      <module name="1C.Icy-Tower1" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\JavaFX\javafx-sdk-11.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml,javafx.media" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1C.Icy-Tower [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="1C.Icy-Tower [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="1C.Icy-Tower [srun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="srun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.1C.Icy-Tower [build]" />
+        <item itemvalue="Gradle.1C.Icy-Tower [run]" />
+        <item itemvalue="Gradle.1C.Icy-Tower [srun]" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f139ba9-b34c-424d-b523-a507800fd674" name="Changes" comment="" />
+      <created>1679482971676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679482971676</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/controller/CharacterSettingsController.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/model/entity/HardlyVisible.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/1C_Icy_Tower$Display.ic" NAME="Display Coverage Results" MODIFIED="1679498290479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>view.*</FILTER>
+    </SUITE>
+  </component>
+</project>

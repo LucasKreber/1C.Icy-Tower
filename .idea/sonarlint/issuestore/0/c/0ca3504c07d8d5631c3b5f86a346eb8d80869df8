@@ -1,0 +1,13 @@
+
+n
+java:S1450"SRemove the "chr1" field and declare it as a local variable in the relevant methods.(ÔÖ‘ûşÿÿÿÿ
+i
+java:S1450"SRemove the "chr2" field and declare it as a local variable in the relevant methods.( ëˆÆ
+i
+java:S1450"SRemove the "chr3" field and declare it as a local variable in the relevant methods.(’‰ÄÅ
+C
+java:S1068"(Remove this unused "chr1" private field.(ÔÖ‘ûşÿÿÿÿ
+>
+java:S1068"(Remove this unused "chr2" private field.( ëˆÆ
+>
+java:S1068"(Remove this unused "chr3" private field.(’‰ÄÅ

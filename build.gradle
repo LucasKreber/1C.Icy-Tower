@@ -1,0 +1,27 @@
+plugins {
+    id 'application'
+    id "org.sonarqube" version "3.5.0.2730"
+    id 'org.openjfx.javafxplugin' version '0.0.14'
+}
+
+repositories {
+    mavenCentral()
+}
+
+
+application {
+    mainClass = 'view.Main'
+}
+
+javafx {
+    version = '11'
+    modules = [ 'javafx.controls', 'javafx.fxml', 'javafx.media']
+}
+
+sonarqube {
+    properties {
+        property "sonar.projectKey", "LucasKreber_1C.Icy-Tower"
+        property "sonar.organization", "lucaskreber"
+        property "sonar.host.url", "https://sonarcloud.io"
+    }
+}
